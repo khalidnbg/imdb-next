@@ -7,7 +7,7 @@ export default function About() {
       <p>
         Here are three paragraphs you can use for the about page of your movie
         app: 1. Our movie app is designed to bring the magic of cinema right to
-        your fingertips. Whether you're a film enthusiast or just looking for
+        your fingertips. Whether you`re a film enthusiast or just looking for
         your next movie night pick, our app has you covered. With a vast
         collection of movies from all genres and eras, you can explore and
         discover new favorites with ease.
