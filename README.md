@@ -1,1 +1,5 @@
-![Alt Text](url_to_your_image)
+![Alt Text](https://github.com/khalidnbg/imdb-next/blob/main/1.PNG?raw=true)
+![Alt Text](https://github.com/khalidnbg/imdb-next/blob/main/2.PNG?raw=true)
+![Alt Text](https://github.com/khalidnbg/imdb-next/blob/main/3.PNG?raw=true)
+![Alt Text](https://github.com/khalidnbg/imdb-next/blob/main/4.PNG?raw=true)
+![Alt Text](https://github.com/khalidnbg/imdb-next/blob/main/5.PNG?raw=true)
